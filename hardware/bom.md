@@ -11,7 +11,7 @@ Prices are rough USD estimates. Nothing here is final until the frame design is 
 | 1 | Feetech URT-1 or a half-duplex UART adapter circuit | Servo bus interface | $10 |
 | 1 | LDRobot LD06 (or LD19) 2D lidar | Mapping and localization | $70 |
 | 1 | BNO085 IMU | Orientation, gait stabilization | $20 |
-| 2–4 | VL53L0X / VL53L1X ToF sensor | Cliff detection | $15 |
+| 4–6 | VL53L0X / VL53L1X ToF sensor | Cliff detection (down) + low-obstacle detection (forward) | $25 |
 | 1 | INA226 current/voltage monitor | Battery gauge | $5 |
 | 1 | 2S or 3S Li-ion pack + BMS | Power | $40 |
 | 1 | High-current buck converter (servo rail) | Servo power | $15 |
